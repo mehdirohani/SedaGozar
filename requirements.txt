@@ -1,0 +1,29 @@
+# Core UI and Processing
+gradio>=4.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Audio Processing
+librosa>=0.10.0
+soundfile>=0.12.0
+pyaudio>=0.2.13
+audioread>=3.0.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Machine Learning - Classic
+scikit-learn>=1.3.0
+
+# Deep Learning
+torch>=2.0.0
+torchaudio>=2.0.0
+
+# Speaker Recognition Models
+speechbrain>=0.5.16
+
+# Optional: For Wav2Vec2 alternative
+# transformers>=4.30.0
+
+# Utilities
+tqdm>=4.65.0
